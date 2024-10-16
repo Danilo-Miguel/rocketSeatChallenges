@@ -1,0 +1,5 @@
+Sou desenvolvedor com sólida experiência em diversas linguagens de programação e tecnologias. Ao longo da minha carreira, tive a oportunidade de trabalhar com diferentes stacks, o que me deu uma base técnica robusta e versátil. Atualmente, estou direcionando meu foco para o React Native, com o objetivo de me especializar em desenvolvimento mobile.
+
+Estou em constante aprendizado e, para alcançar essa meta, estou aprimorando minhas habilidades no ecossistema do React, explorando tecnologias essenciais como HTML, JavaScript, Node.js e outras ferramentas complementares que formam a base desse ambiente. Acredito que, ao dominar esses fundamentos, estarei mais preparado para construir aplicações móveis de alta performance e escaláveis.
+
+Este repositório será um espaço para compartilhar minhas jornadas de estudo e projetos, conforme avanço nesse caminho de especialização.
